@@ -16,7 +16,7 @@ while prime_number < NUM:
         prime_number_list.append(prime_number)
     prime_number += 1
 print(prime_number_list)
-
+# 찾은 소수를 더한다.
 for n in prime_number_list:
     Sum_of_Prime_number += n
 print(Sum_of_Prime_number)
