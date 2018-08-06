@@ -10,7 +10,7 @@ NUM = 2000000
 prime_number = 2
 prime_number_list = [2]
 Sum_of_Prime_number = 0
-
+# 추가
 while prime_number < NUM:
     if isPrime(prime_number):
         prime_number_list.append(prime_number)
