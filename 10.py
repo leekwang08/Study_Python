@@ -19,3 +19,4 @@ print(prime_number_list)
 
 for n in prime_number_list:
     Sum_of_Prime_number += n
+print(Sum_of_Prime_number)
